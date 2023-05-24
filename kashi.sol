@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 
 // Kashi Lending Medium Risk
+// WARNING: While this is now MIT licensed, BentoBox is not. If Sushi agrees I will MIT that one too.
+// This code contains security vulnerabilities and should not be used in production!!!
 
 //  __  __             __    __      _____                  __ __
 // |  |/  .---.-.-----|  |--|__|    |     |_.-----.-----.--|  |__.-----.-----.
